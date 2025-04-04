@@ -1,0 +1,21 @@
+Question,Answer
+What is deep learning?,Deep learning is a subset of machine learning that uses neural networks with many layers.
+What is a neural network?,A neural network is a series of algorithms that mimic the operations of a human brain to recognize relationships in data.
+What is the difference between deep learning and machine learning?,Deep learning uses multiple layers of neural networks while machine learning relies on shallow models.
+What is supervised learning?,Supervised learning is a type of machine learning where the model is trained on labeled data.
+What is unsupervised learning?,Unsupervised learning is where the model finds patterns in unlabeled data.
+What is a convolutional neural network?,A convolutional neural network (CNN) is a type of deep learning model used primarily for image processing.
+What is a recurrent neural network?,A recurrent neural network (RNN) is a type of neural network designed to recognize patterns in sequences of data.
+What is overfitting?,Overfitting is when a model performs well on training data but poorly on unseen data.
+What is underfitting?,Underfitting is when a model is too simple to learn the underlying structure of the data.
+What is backpropagation?,Backpropagation is an algorithm used to train neural networks by minimizing the error through gradient descent.
+What is an activation function?,"An activation function introduces non-linearity into the model, helping it learn complex patterns."
+What is dropout in deep learning?,Dropout is a regularization technique where random neurons are ignored during training to prevent overfitting.
+What is the vanishing gradient problem?,"The vanishing gradient problem occurs when gradients become too small, making it difficult for the model to learn."
+What is transfer learning?,Transfer learning is a method where a model developed for one task is reused as the starting point for a model on a second task.
+What is a loss function?,A loss function is used to measure how well the model is performing by comparing predicted and actual outputs.
+What is TensorFlow?,TensorFlow is an open-source deep learning framework developed by Google.
+What is PyTorch?,"PyTorch is an open-source deep learning library developed by Facebook, popular for its dynamic computation graph."
+What is a GPU?,"A GPU (Graphics Processing Unit) is a processor designed to handle many operations in parallel, useful for deep learning training."
+What is batch size?,Batch size is the number of training examples used in one iteration of model training.
+What is an epoch?,An epoch is one complete pass through the entire training dataset.
